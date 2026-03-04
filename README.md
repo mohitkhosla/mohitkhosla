@@ -4,12 +4,11 @@
 
 <img align="right" alt="GIF" src="https://media.giphy.com/media/3ohzdKvLT1DxFxhZAI/giphy.gif" />
 
-**A highly skilled Full Stack Developer following core Agile Methodolgies (Scrum) with a Master of Information Technology specialized in Intelling Systems. Skilled in Deep Learning, Computer Vision and Natural Language Processing (NLP). Over the years I have developed an artistic ability to code efficiently by analysing the time and space complexity.**
+**A highly skilled Engineer following core Agile Methodologies (Scrum) with a Master of Information Technology, specialised in Intelligent Systems. Skilled in Full-Stack Development, DevOps, Platform Engineering, Deep Learning, Computer Vision and Natural Language Processing (NLP). Over the years, I have developed an artistic ability to code efficiently by analysing the time and space complexity.**
 
 - 🔭 I’m constantly learning about new Tools and Technologies (Currently: GraphQL)
-- 💬 Ask me about: Software Development, Machine Learning and Deep Learning
-- 📫 How to reach me: contact@khoslamohit.com
-- 🔗 Portfolio website: https://khoslamohit.com
+- 💬 Ask me about: Software Development, DevOps, Platform Engineering, Machine Learning and Deep Learning
+- 📫 How to reach me: mohitkhosla70@gmail.com
 
 
 ## Technologies/Tools
